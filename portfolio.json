@@ -1,224 +1,152 @@
 {
-  "name": "Your Name",
-  "label": "Optional Label",
-  "image_path": "img/default-image.png",
+  "name": "Dibyajeet Ojha",
+  "label": "Senior Data Engineer",
+  "image_path": "img/dibyajeet-cover.png",
   "contact": {
-    "email": "FirstLast@Sample.com",
-    "phone": "123-456-7890",
-    "location": "City, State, Country"
+    "email": "dibyajeet894@gmail.com",
+    "phone": "+91-8670520334",
+    "location": "Bengaluru, India"
   },
-  "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
+  "summary": "Senior Data Engineer with 9 years of experience designing scalable, high-performance data platforms across cloud ecosystems. Skilled in Python, Spark, SQL, and modern ETL frameworks. Proven expertise in data migration, pipeline automation, analytics enablement, and cost optimization using Azure and AWS.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
-      "label": "Personal Website",
-      "url": "https://sample.com",
-      "svg_path": "img/globe.svg"
-    },
-    {
-      "label": "First Social",
-      "url": "https://sample.com",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dibyajeet-ojha-4bb618b0",
       "svg_path": "img/linkedin.svg"
     },
     {
-      "label": "Second Social",
-      "url": "https://sample.com",
+      "label": "GitHub",
+      "url": "https://github.com/DestinyBluez",
       "svg_path": "img/github.svg"
     }
   ],
   "work_experience": [
     {
-      "company": "Latest Job",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
+      "company": "Genpact",
+      "position": "Lead Consultant – Senior Data Engineer",
+      "url": "https://www.genpact.com",
+      "start_date": "08/2021",
       "end_date": "Present",
-      "summary": "Short summary about present job and what the position entails",
+      "summary": "Architected and implemented cloud-native data pipelines, driving speed, automation, and operational efficiency across enterprise analytics platforms.",
       "highlights": [
-        "First Duty of Current Job",
-        "Second Duty of Current Job",
-        "Third Duty of Current Job"
+        "Led Azure Synapse and ADF-based pipeline design increasing processing speed by 50%",
+        "Developed REST APIs with Flask; powered Walmart's PPA audit platform",
+        "Built AI-powered classification system with Azure Functions & OpenAI GPT-4 reducing manual effort by 85%"
       ]
     },
     {
-      "company": "Previous Job",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous job and what that position entailed",
+      "company": "Cognizant Technology Solutions",
+      "position": "Associate (Projects)",
+      "url": "https://www.cognizant.com",
+      "start_date": "05/2016",
+      "end_date": "08/2021",
+      "summary": "Built scalable AWS-based data processing systems and migrated critical data workloads, enabling faster and more reliable analytics solutions.",
       "highlights": [
-        "First Duty of Previous Job",
-        "Second Duty of Previous Job",
-        "Third Duty of Previous Job"
+        "Migrated 500+ TB to Redshift across 10+ projects",
+        "Developed ETL pipelines using Glue, EMR, and Lambda improving workflow efficiency by 30%",
+        "Orchestrated Spark and Hive pipelines using Apache Airflow on AWS MWAA"
       ]
     }
   ],
   "projects": [
     {
-      "title": "My First Project",
-      "summary": "Short summary about my first project",
-      "url": "https://sample.com",
+      "title": "Post Payment Audit (PPA) Tool – Walmart",
+      "summary": "A cloud-native web application for audit exception identification and claims processing at Walmart.",
+      "url": "https://www.genpact.com",
       "highlights": [
-        "First Highlight of Project One",
-        "Second Highlight of Project One",
-        "Third Highlight of Project One"
+        "Integrated RESTful APIs with secure data workflows",
+        "Reduced audit cycle time using SQL and Spark optimizations",
+        "Boosted data transparency for PPA managers and QA teams"
       ],
       "images": [
         {
           "img_path": "https://picsum.photos/600/338?random=1",
-          "caption": "Image Caption 1"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=2",
-          "caption": "Image Caption 2"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=3",
-          "caption": "Image Caption 3"
+          "caption": "PPA Walmart Audit Workflow"
         }
       ]
     },
     {
-      "title": "My Second Project",
-      "summary": "Short summary about my second project",
-      "url": "https://sample.com",
+      "title": "Cross-Region Disaster Recovery Migration",
+      "summary": "Designed and implemented a robust multi-region DR strategy to ensure business continuity across critical data pipelines.",
+      "url": "https://www.genpact.com",
       "highlights": [
-        "First Highlight of Project Two",
-        "Second Highlight of Project Two",
-        "Third Highlight of Project Two"
+        "Seamless failover across Azure geographies",
+        "Maintained 100% data integrity during test drills",
+        "Ensured zero data loss for critical workflows"
       ],
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=4",
-          "caption": "Image Caption 4"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=5",
-          "caption": "Image Caption 5"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=6",
-          "caption": "Image Caption 6"
+          "img_path": "https://picsum.photos/600/338?random=2",
+          "caption": "Azure DR Architecture"
         }
       ]
     }
   ],
-  "volunteer_experience": [
-    {
-      "organization": "Latest Organization",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
-      "end_date": "Present",
-      "summary": "Short summary about present volunteer work",
-      "highlights": [
-        "First Duty of Current Organization",
-        "Second Duty of Current Organization",
-        "Third Duty of Current Organization"
-      ]
-    },
-    {
-      "organization": "Previous Organization",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous volunteer work",
-      "highlights": [
-        "First Duty of Previous Organization",
-        "Second Duty of Previous Organization",
-        "Third Duty of Previous Organization"
-      ]
-    }
-  ],
+  "volunteer_experience": [],
   "education": [
     {
-      "institution": "Institution One",
-      "location": "Institution One Location",
-      "url": "https://sample.com",
-      "degrees": [
-        "Master of Science in Computer Science",
-        "Minor in Mathematics"
-      ],
-      "honors": ["Outstanding Student Award", "Dean's List"],
-      "gpa_cumulative": "3.5",
-      "gpa_major": "4.0",
-      "graduation_date": "01/01/2005"
+      "institution": "Purdue University",
+      "location": "Remote",
+      "url": "https://www.purdue.edu",
+      "degrees": ["Post Graduate Program in AI/ML"],
+      "honors": [],
+      "gpa_cumulative": "",
+      "gpa_major": "",
+      "graduation_date": "In Progress"
     },
     {
-      "institution": "Institution Two",
-      "location": "Institution Two Location",
-      "url": "https://sample.com",
-      "degrees": ["Bachelor of Science in Physics"],
-      "honors": ["Scholarship Recipient"],
-      "gpa_cumulative": "3.2",
-      "gpa_major": "3.9",
-      "graduation_date": "01/01/2000"
+      "institution": "West Bengal University of Technology",
+      "location": "Durgapur, India",
+      "url": "https://www.wbut.ac.in",
+      "degrees": ["Bachelor of Technology in Electronics & Instrumentation"],
+      "honors": [],
+      "gpa_cumulative": "",
+      "gpa_major": "",
+      "graduation_date": "07/2015"
     }
   ],
   "skills": [
-    {
-      "name": "My First Skill",
-      "proficiency": 100,
-      "proficiency_label": "Proficiency Level"
-    },
-    {
-      "name": "My Second Skill",
-      "proficiency": 80,
-      "proficiency_label": "Proficiency Level"
-    }
+    { "name": "Python", "proficiency": 95, "proficiency_label": "Expert" },
+    { "name": "SQL", "proficiency": 90, "proficiency_label": "Advanced" },
+    { "name": "Apache Spark", "proficiency": 90, "proficiency_label": "Advanced" },
+    { "name": "Azure Data Engineering", "proficiency": 85, "proficiency_label": "Advanced" },
+    { "name": "AWS (Redshift, Glue, Lambda)", "proficiency": 85, "proficiency_label": "Advanced" },
+    { "name": "Databricks", "proficiency": 85, "proficiency_label": "Advanced" },
+    { "name": "Apache Airflow", "proficiency": 80, "proficiency_label": "Proficient" },
+    { "name": "Power BI", "proficiency": 75, "proficiency_label": "Proficient" }
   ],
   "interests": [
     {
-      "name": "My First Hobby",
-      "summary": "Short summary about my first Hobby",
+      "name": "Football Analytics",
+      "summary": "Passionate about leveraging data to analyze football strategies and player performance.",
       "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=7",
-          "caption": "Image Caption 7"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=8",
-          "caption": "Image Caption 8"
-        }
+        { "img_path": "https://picsum.photos/600/338?random=7", "caption": "Tactical breakdowns using Python" }
       ]
     },
     {
-      "name": "My Second Hobby",
-      "summary": "Short summary about my second hobby",
+      "name": "AI for Productivity",
+      "summary": "Exploring how generative AI tools like GPT and automation can boost freelance productivity.",
       "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=9",
-          "caption": "Image Caption 9"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=10",
-          "caption": "Image Caption 10"
-        }
+        { "img_path": "https://picsum.photos/600/338?random=8", "caption": "AI tools in daily life" }
       ]
     }
   ],
   "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "American Sign Language",
-      "fluency": "Professional Working Proficiency"
-    }
+    { "language": "English", "fluency": "Fluent" },
+    { "language": "Hindi", "fluency": "Fluent" },
+    { "language": "Bengali", "fluency": "Native speaker" }
   ],
   "references": [
     {
-      "name": "Person One",
-      "relation": "Previous Boss",
-      "reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
+      "name": "Jaya Bollampally",
+      "relation": "Manager at Genpact",
+      "reference": "Dibyajeet is a strategic thinker and technical leader who consistently delivered high-quality solutions under tight deadlines."
     },
     {
-      "name": "Person Two",
-      "relation": "Previous Coworker",
-      "reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
+      "name": "Rashmi Ranjan",
+      "relation": "Colleague at Cognizant",
+      "reference": "Collaborative and technically sound professional—always ready to take ownership and solve complex data challenges."
     }
   ]
 }
